@@ -7,7 +7,6 @@ namespace BlackJack
     public static class Deck
     {
         public static List<Card> deck = new List<Card>();
-        public static List<Card> shuffledDeck = new List<Card>();
         
         public static List<Card> CreateDeck()
         {
@@ -63,14 +62,16 @@ namespace BlackJack
             deck.Add(new Card(){Suit = "Diamonds", Value = 10, Picture = "Queen"});
             deck.Add(new Card(){Suit = "Diamonds", Value = 10, Picture = "King"});
             deck.Add(new Card(){Suit = "Diamonds", Value = 11, Picture = "Ace"});
+            deck = ShuffleDeck(deck);
             return deck;
         }
 
-        public static List<Card>  ShuffleDeck(List<Card> deck)
+        public static List<Card> ShuffleDeck(List<Card> deck)
         {
             var shuffledDeck = deck.OrderBy(x => Guid.NewGuid()).ToList();
             return shuffledDeck;
         }
+        
         public static Card DealSingleCard()
         {
             var card = deck[0];
@@ -80,11 +81,13 @@ namespace BlackJack
 
         public static List<Card> DealStartingHand()
         {
-            List<Card> startingHand = new List<Card>();    
-            startingHand.Add(DealSingleCard());
-            startingHand.Add(DealSingleCard());
-            return startingHand;
+            // ADD FUNCTION FOR SETTING HOW MANY CARDS TO START WITH? 
+            var hand = new List<Card>(); 
+            hand.Add(DealSingleCard());
+            hand.Add(DealSingleCard());
+            return hand;
         }
+        
 
     }
 }

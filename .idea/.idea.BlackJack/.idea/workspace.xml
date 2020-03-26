@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="888e9fc7-9998-4fda-96b3-42eabe88997a" name="Default Changelist" comment="" />
+    <list default="true" id="888e9fc7-9998-4fda-96b3-42eabe88997a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlackJack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlackJack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlackJack/BlackJackEngine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlackJack/BlackJackEngine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlackJack/Deck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlackJack/Deck.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlackJack/Interface.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlackJack/Interface.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlackJack/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlackJack/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BlackJack" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/BlackJack/Interface.cs" root0="FORCE_HIGHLIGHTING" />
@@ -21,16 +37,17 @@
       <list>
         <option value="$PROJECT_DIR$/BlackJack/Card.cs" />
         <option value="$PROJECT_DIR$/BlackJack/Player.cs" />
-        <option value="$PROJECT_DIR$/BlackJack/Dealer.cs" />
         <option value="$PROJECT_DIR$/BlackJack/Engine.cs" />
-        <option value="$PROJECT_DIR$/BlackJack/BlackJackEngine.cs" />
         <option value="$PROJECT_DIR$/BlackJack/Interface.cs" />
-        <option value="$PROJECT_DIR$/BlackJack/Program.cs" />
         <option value="$PROJECT_DIR$/BlackJack/Deck.cs" />
+        <option value="$PROJECT_DIR$/BlackJack/Dealer.cs" />
+        <option value="$PROJECT_DIR$/BlackJack/BlackJackEngine.cs" />
+        <option value="$PROJECT_DIR$/BlackJack/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1ZYuiXHPJy7nJaGiCuBiOydJtb4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,6 +56,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -46,6 +64,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="BlackJack" type="DotNetProject" factoryName=".NET Project">
@@ -80,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585028475860</updated>
-      <workItem from="1585028477011" duration="19318000" />
+      <workItem from="1585028477011" duration="27963000" />
     </task>
     <servers />
   </component>
@@ -90,29 +109,45 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1782" height="290" key="GridCell.Tab.0.bottom" timestamp="1585118452766">
-      <screen x="-118" y="-1057" width="1920" height="1057" />
+    <state width="1462" height="260" key="GridCell.Tab.0.bottom" timestamp="1585183624567">
+      <screen x="-112" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1462" height="260" key="GridCell.Tab.0.bottom/-112.-1057.1920.1057/0.23.1680.1027@-112.-1057.1920.1057" timestamp="1585183624567" />
     <state width="1782" height="290" key="GridCell.Tab.0.bottom/-118.-1057.1920.1057/0.23.1680.1027@-118.-1057.1920.1057" timestamp="1585118452766" />
     <state width="918" height="290" key="GridCell.Tab.0.bottom/-151.-1057.1920.1057/0.23.1680.1027@-151.-1057.1920.1057" timestamp="1585030163410" />
-    <state width="1782" height="290" key="GridCell.Tab.0.center" timestamp="1585118452765">
-      <screen x="-118" y="-1057" width="1920" height="1057" />
+    <state width="1196" height="260" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1680.1027@-1920.23.1920.1057" timestamp="1585171612797" />
+    <state width="1462" height="260" key="GridCell.Tab.0.center" timestamp="1585183624566">
+      <screen x="-112" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1462" height="260" key="GridCell.Tab.0.center/-112.-1057.1920.1057/0.23.1680.1027@-112.-1057.1920.1057" timestamp="1585183624566" />
     <state width="1782" height="290" key="GridCell.Tab.0.center/-118.-1057.1920.1057/0.23.1680.1027@-118.-1057.1920.1057" timestamp="1585118452765" />
     <state width="918" height="290" key="GridCell.Tab.0.center/-151.-1057.1920.1057/0.23.1680.1027@-151.-1057.1920.1057" timestamp="1585030163409" />
-    <state width="1782" height="290" key="GridCell.Tab.0.left" timestamp="1585118452764">
-      <screen x="-118" y="-1057" width="1920" height="1057" />
+    <state width="1196" height="260" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1680.1027@-1920.23.1920.1057" timestamp="1585171612796" />
+    <state width="1462" height="260" key="GridCell.Tab.0.left" timestamp="1585183624565">
+      <screen x="-112" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1462" height="260" key="GridCell.Tab.0.left/-112.-1057.1920.1057/0.23.1680.1027@-112.-1057.1920.1057" timestamp="1585183624565" />
     <state width="1782" height="290" key="GridCell.Tab.0.left/-118.-1057.1920.1057/0.23.1680.1027@-118.-1057.1920.1057" timestamp="1585118452764" />
     <state width="918" height="290" key="GridCell.Tab.0.left/-151.-1057.1920.1057/0.23.1680.1027@-151.-1057.1920.1057" timestamp="1585030163409" />
-    <state width="1782" height="290" key="GridCell.Tab.0.right" timestamp="1585118452766">
-      <screen x="-118" y="-1057" width="1920" height="1057" />
+    <state width="1196" height="260" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1680.1027@-1920.23.1920.1057" timestamp="1585171612795" />
+    <state width="1462" height="260" key="GridCell.Tab.0.right" timestamp="1585183624566">
+      <screen x="-112" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1462" height="260" key="GridCell.Tab.0.right/-112.-1057.1920.1057/0.23.1680.1027@-112.-1057.1920.1057" timestamp="1585183624566" />
     <state width="1782" height="290" key="GridCell.Tab.0.right/-118.-1057.1920.1057/0.23.1680.1027@-118.-1057.1920.1057" timestamp="1585118452766" />
     <state width="918" height="290" key="GridCell.Tab.0.right/-151.-1057.1920.1057/0.23.1680.1027@-151.-1057.1920.1057" timestamp="1585030163410" />
+    <state width="1196" height="260" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1680.1027@-1920.23.1920.1057" timestamp="1585171612796" />
     <state x="250" y="-775" key="Rider.ProjectTemplateDialog.Size" timestamp="1585028475998">
       <screen x="-151" y="-1057" width="1920" height="1057" />
     </state>
     <state x="250" y="-775" key="Rider.ProjectTemplateDialog.Size/-151.-1057.1920.1057/0.23.1680.1027@-151.-1057.1920.1057" timestamp="1585028475998" />
+    <state x="249" y="-872" key="SettingsEditor" timestamp="1585183308189">
+      <screen x="-112" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="249" y="-872" key="SettingsEditor/-112.-1057.1920.1057/0.23.1680.1027@-112.-1057.1920.1057" timestamp="1585183308189" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1585183979974">
+      <screen x="-112" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/-112.-1057.1920.1057/0.23.1680.1027@-112.-1057.1920.1057" timestamp="1585183979974" />
   </component>
 </project>

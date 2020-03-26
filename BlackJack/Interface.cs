@@ -31,9 +31,10 @@ namespace BlackJack
             Console.Write($"With a hand of ");
             foreach (var card in hand)
             {
-                Console.Write($"[{card.Value} {card.Suit}], ");
+                Console.Write($"[{card.Value} {card.Suit}] ");
             }
-            Console.WriteLine(".");
+
+            Console.WriteLine("");
         }
     }
 }
